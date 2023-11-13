@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ReserveTable\ReserveTable\bin\Debug\net6.0\ReserveTable.exe
+C:\Users\Admin\source\repos\ReserveTable\ReserveTable\bin\Debug\net6.0\ReserveTable.deps.json
+C:\Users\Admin\source\repos\ReserveTable\ReserveTable\bin\Debug\net6.0\ReserveTable.runtimeconfig.json
+C:\Users\Admin\source\repos\ReserveTable\ReserveTable\bin\Debug\net6.0\ReserveTable.dll
+C:\Users\Admin\source\repos\ReserveTable\ReserveTable\bin\Debug\net6.0\ReserveTable.pdb
+C:\Users\Admin\source\repos\ReserveTable\ReserveTable\obj\Debug\net6.0\ReserveTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ReserveTable\ReserveTable\obj\Debug\net6.0\ReserveTable.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ReserveTable\ReserveTable\obj\Debug\net6.0\ReserveTable.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ReserveTable\ReserveTable\obj\Debug\net6.0\ReserveTable.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ReserveTable\ReserveTable\obj\Debug\net6.0\ReserveTable.dll
+C:\Users\Admin\source\repos\ReserveTable\ReserveTable\obj\Debug\net6.0\refint\ReserveTable.dll
+C:\Users\Admin\source\repos\ReserveTable\ReserveTable\obj\Debug\net6.0\ReserveTable.pdb
+C:\Users\Admin\source\repos\ReserveTable\ReserveTable\obj\Debug\net6.0\ReserveTable.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ReserveTable\ReserveTable\obj\Debug\net6.0\ref\ReserveTable.dll
