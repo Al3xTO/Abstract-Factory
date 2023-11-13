@@ -15,7 +15,7 @@ class Program
 
         Reserve membership = factory.GetReserve();
 
-        Console.WriteLine("\nЗаброньовано: \n");
+        Console.WriteLine("\nОбрано: \n");
 
         Console.WriteLine(
             $"\tТип сервування:\t\t{membership.Name}\n" +
